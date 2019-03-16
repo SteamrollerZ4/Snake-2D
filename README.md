@@ -9,8 +9,7 @@ C compiler e.g. gcc, g++ or clang
 # Compilation instructions
 Run the following commands on terminal or cmd
 1.) make
-2.) make link_all
-3.) make clean
+2.) make install
 
 # Documentation
 See /assets/Snake2d design.pdf
